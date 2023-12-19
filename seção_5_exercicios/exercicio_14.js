@@ -11,15 +11,3 @@ for (let i = 0; i <= 50; i++) {
         console.log(`O número  é ${i} impar`)
     }  
 }
-
-
-let x = 0
-while (x < 50) {  
-    x++
-    if (x % 2 == 0) {
-        console.log(`O número ${x} é par`)
-    } else {
-        console.log(`O número  é ${x} impar`)
-    }  
-}
-
