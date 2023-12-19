@@ -1,4 +1,4 @@
-
+//  * ATIVIDADE *
 
 // Escreva tres valores em number e exiba no navegador,
 // com numeros inteiros numeros com casa decimal, e por aritmetrica

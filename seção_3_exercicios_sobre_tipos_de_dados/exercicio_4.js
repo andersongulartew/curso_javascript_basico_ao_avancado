@@ -1,3 +1,5 @@
+//  * ATIVIDADE *
+
 // Escreva tres comparações cm operadores logicos
 // com and, or e not
 

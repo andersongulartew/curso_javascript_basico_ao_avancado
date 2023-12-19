@@ -1,3 +1,5 @@
+//  * ATIVIDADE *
+
 // crie uma constante cm seu nome como valor;
 // depois uma estrutura com If que verifica se é o que esta na constante;
 // se estiver correto emita uma msensagem de saudação;
