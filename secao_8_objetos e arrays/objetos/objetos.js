@@ -13,3 +13,5 @@ let cachorro = {
 console.log(cachorro.patas);
 console.log(cachorro.nome);
 cachorro.latir();
+
+
