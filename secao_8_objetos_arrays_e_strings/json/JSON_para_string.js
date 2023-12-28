@@ -1,4 +1,4 @@
-//  podemos converter o JSON para uma string, ou tambem uma strong para JSON
+//  podemos converter o JSON para uma string, ou tambem uma string para JSON
 
 const carro ={
     "marca": "BMW",
