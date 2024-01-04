@@ -1,4 +1,4 @@
-// Get: serve para regatar o valor de uma propriedade;
+// Get: serve para resgatar o valor de uma propriedade;
 // Set: serve para alterar o valor de uma propriedade;
 
 class Cachorro {
